@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:0,stream
+#EXTVLCOPT:network-caching=1000
+https://audiostream.i9suaradio.com:1715/stream
